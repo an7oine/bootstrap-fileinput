@@ -38,7 +38,7 @@
         msgNoFilesSelected: 'Ei valittuja tiedostoja',
         msgPaused: 'Keskeytetty',
         msgCancelled: 'Peruttu',
-        msgPlaceholder: 'Valitse {files} &hellip;',
+        msgPlaceholder: 'Valitse {files}...',
         msgZoomModalHeading: 'Yksityiskohtainen tarkastelu',
         msgFileRequired: 'Valitse siirrett&auml;v&auml; tiedosto.',
         msgSizeTooSmall: 'Tiedosto "{name}" (<b>{size}</b>) alittaa pienimm&auml;n sallitun tiedoston koon, joka on <b>{minSize}</b>. Yrit&auml; uudelleen!',
